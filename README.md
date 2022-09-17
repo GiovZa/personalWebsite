@@ -11,14 +11,16 @@ Sometimes Google flags my website since it's on a free web server. If so, you ca
      alt="Home Page"
      style="float: left; margin-right: 10px;" />
      
-     <img src="School.png"
+
+<img src="School.png"
+     alt="Home Page"
+     style="float: left; margin-right: 10px;" />
+    
+    
+<img src="Resume.png"
      alt="Home Page"
      style="float: left; margin-right: 10px;" />
      
-     <img src="Resume.png"
-     alt="Home Page"
-     style="float: left; margin-right: 10px;" />
-     
-     <img src="Misc.png"
+<img src="Misc.png"
      alt="Home Page"
      style="float: left; margin-right: 10px;" />
